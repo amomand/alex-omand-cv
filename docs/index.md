@@ -7,7 +7,7 @@ Princes Risborough, Buckinghamshire
 ---
 
 ## **Profile**
-Strategic product leader with a deep technical foundation, specialising in platform and developer experience products. With a background spanning engineering, product, and project management, I have a proven track record of building high-impact internal platforms that accelerate software delivery. Holding an MSc in Computer Science and a BEng in Aerospace Engineering, I bring a rigorous, scientific approach to problem-solving and decision-making. Passionate about developer experience, automation, and platform thinking, I translate complex engineering challenges into intuitive, high-value products that empower developers and drive business outcomes. I am equally passionate about people leadership, with a proven ability to mentor, coach, and inspire high-performing teams.
+A strategic product leader with a deep technical foundation, I specialise in platform and developer experience products, combining a strong understanding of technology with data-led decision-making. My background spans product and project management, always with a focus on the technical side of software delivery. With an MSc in Computer Science and a BEng in Aerospace Engineering, I take a rigorous, analytical approach to problem-solving, working closely with engineering teams to build high-impact developer platforms that streamline software engineering. I thrive on translating complex technical challenges into intuitive, high-value solutions that empower developers and drive business outcomes. I'm passionate about people leadership, fostering collaborative, high-performing teams through mentorship, coaching, and an inclusive culture.
 
 ---
 
@@ -68,22 +68,17 @@ Strategic product leader with a deep technical foundation, specialising in platf
 - Drove adaptive processes to ensure high-quality, timely deliveries across on-site and remote teams.
 - Maintained transparency through detailed programme and project roadmaps, providing clear communications to stakeholders.
 
-### **Senior IT Project Manager – POS & Payments**  
-**Marks & Spencer** | *Jun 2017 – Mar 2018*  
-- Delivered multiple projects in POS and Payments, introducing automated build and test pipelines.
-- Acted as Agile Champion, driving best practices across IT teams.
+### Tech & Project Management Career Progression  
+**Marks & Spencer** | *May 2011 – Mar 2018*  
 
-### **IT Project Manager – Retail Technology**  
-**Marks & Spencer** | *Oct 2014 – Jun 2017*  
-- Led key automation projects, transitioning physical test environments to the cloud.
+Progressing from **Business Analyst to Senior Technical Project Manager**, I played a key role in shaping M&S’s retail technology landscape. Over seven years, I led projects across **payments, POS, retail technology, and automation**, consistently working at the intersection of **technology, product, and operations**. My experience evolved from **business analysis and delivery leadership** into **technical project management**, where I introduced **automation, self-service tooling, and agile best practices** to improve development workflows.  
 
-### **IT Delivery Lead – Retail Technology**  
-**Marks & Spencer** | *Oct 2013 – Oct 2014*  
-- Business Analyst and Delivery Lead for a large-scale intranet project with 65,000 users.
-
-### **IT Business Analyst – Retail Technology**  
-**Marks & Spencer** | *May 2011 – Oct 2013*  
-- Led analysis for an award-winning payments system upgrade, making M&S the first Tier 1 retailer in the UK to adopt contactless payments.
+#### Key Achievements:  
+- Led analysis for an **award-winning payments system upgrade**, making M&S the first Tier 1 UK retailer to adopt **contactless payments**.  
+- Delivered multiple **POS & payments projects**, introducing **automated build and test pipelines** to enhance reliability.  
+- Spearheaded **automation initiatives**, transitioning **physical test environments to the cloud** for improved scalability.  
+- Served as an **Agile Champion**, driving best practices across IT teams.  
+- Led a **large-scale intranet project** with **65,000 users**, ensuring smooth rollout and adoption.  
 
 ---
 
