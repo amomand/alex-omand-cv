@@ -29,18 +29,18 @@ Outside of work, I’ve always enjoyed **coding as a hobby**, having explored **
 
 <div class="skills-list">
   <ul>
-    <li>**Platform & Product Strategy**</li>
-    <li>**Internal Developer Platforms**</li>
-    <li>**Developer Experience**</li>
-    <li>**SQL, Python & Data Analytics**</li>
-    <li>**Metrics and Experimentation**</li>
+    <li>Platform & Product Strategy</li>
+    <li>Internal Developer Platforms</li>
+    <li>Developer Experience</li>
+    <li>SQL, Python & Data Analytics</li>
+    <li>Metrics and Experimentation</li>
   </ul>
   <ul>
-    <li>**Logging & Observability**</li>
-    <li>**Mentoring & Coaching**</li>
-    <li>**Team Development & Growth**</li>
-    <li>**Cross-Functional Collaboration**</li>
-    <li>**Leadership & Culture Building**</li>
+    <li>Logging & Observability</li>
+    <li>Mentoring & Coaching</li>
+    <li>Team Development & Growth</li>
+    <li>Cross-Functional Collaboration</li>
+    <li>Leadership & Culture Building</li>
   </ul>
 </div>
 
@@ -51,22 +51,22 @@ Outside of work, I’ve always enjoyed **coding as a hobby**, having explored **
 ### **Head of Product – Platforms**  
 **Marks & Spencer** | *Nov 2023 - Present*  
 - Lead a team of **7 platform product managers** to define and build **Internal Developer Platforms (IDPs)**, focusing on **automation, abstraction, self-service, and developer enablement**.
-- Drive **platform adoption across engineering**, reducing **cognitive load** and **accelerating software delivery** through **well-designed APIs, CI/CD tooling, and cloud-native services**.
+- Drive **platform adoption** across engineering, reducing **cognitive load** and **accelerating software delivery** through **well-designed APIs, CI/CD tooling, and cloud-native services**.
 - Define and execute **platform product strategy**, balancing **long-term vision** with **rapid MVP iterations** based on **user feedback and data**.
-- Champion **platform thinking** and **best practices** across M&S, ensuring alignment with **engineering leadership and business objectives**.
-- Foster a **strong culture of collaboration and learning** within the team, ensuring **product managers and engineers** are supported in their growth.
+- Champion **platform thinking** and best practices across M&S, ensuring alignment with **engineering leadership and business objectives**.
+- Foster a **culture of collaboration and learning**, ensuring **product managers and engineers** are supported in their growth.
 
 ### **Senior Product Manager – Platforms**  
 **Marks & Spencer** | *Jan 2020 – Nov 2023*  
-- Led the development of **internal developer platforms** to provide **streamlined and effective tooling** for **engineering teams**.
-- Spearheaded initiatives to improve **DevEx**, introducing **self-service platforms** that reduced **friction for developers**.
-- Defined **API and platform strategies**, ensuring **high levels of usability, security, and scalability**.
-- Led **product teams across Retail Technology** to build **enterprise APIs, reusable platforms, and consumable tech solutions** that **improved speed to market and innovation**.
+- Led the development of **internal developer platforms**, providing **streamlined and effective tooling** for **engineering teams**.
+- Spearheaded **DevEx initiatives**, introducing **self-service platforms** that reduced **friction for developers**.
+- Defined **API and platform strategies**, ensuring **usability, security, and scalability**.
+- Led **product teams** across **Retail Technology**, building **enterprise APIs, reusable platforms, and consumable tech solutions** to **improve speed to market and innovation**.
 - Advocated for **platform-first thinking**, driving adoption across the organisation while **mentoring teams on product excellence**.
 
 ### **Senior Technical Project Manager – Core Technology Platforms**  
 **Product Madness** | *Mar 2018 – Jan 2020*  
-- Managed multiple **technical teams** working on **core game platform, DevOps, and infrastructure**.
+- Managed **technical teams** working on **core game platform, DevOps, and infrastructure**.
 - Drove **adaptive processes** to ensure **high-quality, timely deliveries** across **on-site and remote teams**.
 - Maintained transparency through **detailed programme and project roadmaps**, providing **clear communications** to stakeholders.
 
