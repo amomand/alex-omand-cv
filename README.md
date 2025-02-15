@@ -9,8 +9,9 @@
 - Mentor and coach teams, fostering **high-performing, engaged engineers and product managers**.
 
 ## 🎯 What You’ll Find Here
-📄 **My CV** in [pages]([here](https://amomand.github.io/alex-omand-cv/) and [markdown]([here](docs/alex-omand-cv.md)  – A detailed breakdown of my experience, skills, and career journey.
-📜 **Cover Letter (Below)** – A brief introduction tailored for prospective employers.  
+
+- 📄 My CV in [pages](https://amomand.github.io/alex-omand-cv/) and [markdown](docs/alex-omand-cv.md) – A detailed breakdown of my experience, skills, and career journey.
+- 🧵 **Cover Letter (Below)** – A brief introduction tailored for prospective employers.
 
 ---
 
@@ -29,6 +30,6 @@ Looking forward to hearing from you!
 
 Best regards,  
 **Alex Omand**  
-💼 [LinkedIn Profile](www.linkedin.com/in/alex-omand-39a37933)  
+💼 [LinkedIn Profile](https://www.linkedin.com/in/alex-omand-39a37933)  
 
 ---
