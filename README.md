@@ -29,8 +29,7 @@ Looking forward to hearing from you!
 
 Best regards,  
 **Alex Omand**  
-📧 [aomand@hotmail.co.uk](mailto:aomand@hotmail.co.uk)  
-💼 [LinkedIn Profile (if applicable)](https://www.linkedin.com/in/yourprofile/)  
+💼 [LinkedIn Profile](www.linkedin.com/in/alex-omand-39a37933)  
 
 ---
 
