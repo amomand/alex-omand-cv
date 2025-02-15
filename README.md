@@ -9,7 +9,7 @@
 - Mentor and coach teams, fostering **high-performing, engaged engineers and product managers**.
 
 ## 🎯 What You’ll Find Here
-📄 [**My CV (Markdown Format)**](alex-cv.md) – A detailed breakdown of my experience, skills, and career journey.  
+📄 [**My CV (Markdown Format)**](docs/alex-omand-cv.md) – A detailed breakdown of my experience, skills, and career journey.  
 📜 **Cover Letter (Below)** – A brief introduction tailored for prospective employers.  
 
 ---
@@ -34,4 +34,4 @@ Best regards,
 ---
 
 ### **🔗 View My CV**
-Click [here](alex-cv.md) to see my full CV in Markdown format.
+Click [here](docs/alex-omand-cv.md) to see my full CV in Markdown format.
