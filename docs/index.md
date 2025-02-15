@@ -7,9 +7,9 @@ Princes Risborough, Buckinghamshire
 ---
 
 ## **Profile**
-I’m a strategic product leader with a deep technical foundation, specialising in platform and developer experience products. My background spans product and project management, always working on the technical side of software delivery. With an MSc in Computer Science and a BEng in Aerospace Engineering, I take an analytical, data-led approach to problem-solving and decision-making.
+I’m a strategic product leader with a deep technical foundation, specialising in platform and developer experience products. My background spans product and project management, consistently working on the technical side of software delivery. With an MSc in Computer Science and a BEng in Aerospace Engineering, I take an analytical, data-led approach to problem-solving and decision-making.
 
-Outside of work, I’ve always enjoyed coding as a hobby, having explored Java, C# with Unity, and now Python. While I’ve never worked as an engineer professionally, my hands-on curiosity and technical mindset have shaped how I work with development teams. I thrive on translating complex technical challenges into intuitive, high-value solutions that empower developers and drive business outcomes. Just as important as the technology itself, I prioritise people leadership, fostering collaborative, high-performing teams through mentorship, coaching, and an inclusive culture.
+Outside of work, I’ve always enjoyed coding as a hobby, having explored Java, C# with Unity, and now Python. While I’ve never been a professional engineer, my hands-on curiosity and technical mindset have shaped how I work with development teams. I thrive on translating complex technical challenges into intuitive, high-value solutions that empower developers and drive business outcomes. Just as important as the technology itself, I prioritise people leadership, fostering collaborative, high-performing teams through mentorship, coaching, and an inclusive culture.
 
 ---
 
@@ -58,7 +58,7 @@ Outside of work, I’ve always enjoyed coding as a hobby, having explored Java, 
 
 ### **Senior Product Manager – Platforms**  
 **Marks & Spencer** | *Jan 2020 – Nov 2023*  
-- Led the development of internal developer platforms to provide streamlined and effective tooling for M&S engineers.
+- Led the development of internal developer platforms to provide streamlined and effective tooling for engineering teams.
 - Spearheaded initiatives to improve DevEx, introducing self-service platforms that reduced friction for developers.
 - Defined API and platform strategies, ensuring high levels of usability, security, and scalability.
 - Led product teams across Retail Technology to build enterprise APIs, reusable platforms, and consumable tech solutions that improved speed to market and innovation.
@@ -73,20 +73,20 @@ Outside of work, I’ve always enjoyed coding as a hobby, having explored Java, 
 ### Tech & Project Management Career Progression  
 **Marks & Spencer** | *May 2011 – Mar 2018*  
 
-Progressing from **Business Analyst to Senior Technical Project Manager**, I played a key role in shaping M&S’s retail technology landscape. Over seven years, I led projects across **payments, POS, retail technology, and automation**, consistently working at the intersection of **technology, product, and operations**. My experience evolved from **business analysis and delivery leadership** into **technical project management**, where I introduced **automation, self-service tooling, and agile best practices** to improve development workflows.  
+Progressing from **Business Analyst to Senior Technical Project Manager**, I played a key role in shaping M&S’s retail technology landscape. Over seven years, I led projects spanning **payments, POS, retail technology, and automation**, consistently working at the intersection of **technology, product, and operations**. My experience evolved from **business analysis and delivery leadership** into **technical project management**, where I introduced **automation, self-service tooling, and agile best practices** to improve development workflows.  
 
 #### Key Achievements:  
 - Led analysis for an **award-winning payments system upgrade**, making M&S the first Tier 1 UK retailer to adopt **contactless payments**.  
 - Delivered multiple **POS & payments projects**, introducing **automated build and test pipelines** to enhance reliability.  
 - Spearheaded **automation initiatives**, transitioning **physical test environments to the cloud** for improved scalability.  
 - Served as an **Agile Champion**, driving best practices across IT teams.  
-- Led a **large-scale intranet project** with **65,000 users**, ensuring smooth rollout and adoption.  
+- Delivered a **large-scale intranet project** with **65,000 users**, ensuring smooth rollout and adoption.  
 
 ---
 
 ## **Ongoing Learning**
 - **Platform Engineering (In Progress)** – 6-Month Course (2025)
-- Continuously upskilling in software development and engineering concepts. Currently completing an intensive **100-day Python boot camp**, focusing on **object-oriented programming, APIs, and data processing**.
+- Currently completing an intensive **100-day Python boot camp**. The course focuses on **object-oriented programming, APIs, and data processing**.
 
 ---
 
