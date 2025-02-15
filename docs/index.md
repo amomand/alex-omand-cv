@@ -7,7 +7,9 @@ Princes Risborough, Buckinghamshire
 ---
 
 ## **Profile**
-A strategic product leader with a deep technical foundation, I specialise in platform and developer experience products, combining a strong understanding of technology with data-led decision-making. My background spans product and project management, always with a focus on the technical side of software delivery. With an MSc in Computer Science and a BEng in Aerospace Engineering, I take a rigorous, analytical approach to problem-solving, working closely with engineering teams to build high-impact developer platforms that streamline software engineering. I thrive on translating complex technical challenges into intuitive, high-value solutions that empower developers and drive business outcomes. I'm passionate about people leadership, fostering collaborative, high-performing teams through mentorship, coaching, and an inclusive culture.
+I’m a strategic product leader with a deep technical foundation, specialising in platform and developer experience products. My background spans product and project management, always working on the technical side of software delivery. With an MSc in Computer Science and a BEng in Aerospace Engineering, I take an analytical, data-led approach to problem-solving and decision-making.
+
+Outside of work, I’ve always enjoyed coding as a hobby, having explored Java, C# with Unity, and now Python. While I’ve never worked as an engineer professionally, my hands-on curiosity and technical mindset have shaped how I work with development teams. I thrive on translating complex technical challenges into intuitive, high-value solutions that empower developers and drive business outcomes. Just as important as the technology itself, I prioritise people leadership, fostering collaborative, high-performing teams through mentorship, coaching, and an inclusive culture.
 
 ---
 
