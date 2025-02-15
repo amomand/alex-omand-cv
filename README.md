@@ -10,7 +10,7 @@
 
 ## 🎯 What You’ll Find Here
 
-- 📄 My CV in [pages](https://amomand.github.io/alex-omand-cv/) and [markdown](docs/index.md) – A detailed breakdown of my experience, skills, and career journey.
+- 📄 My CV in [pages](https://amomand.github.io/alex-omand-cv/) – A detailed breakdown of my experience, skills, and career journey.
 - 🧵 **Cover Letter (Below)** – A brief introduction tailored for prospective employers.
 
 ---
