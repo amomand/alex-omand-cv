@@ -13,19 +13,33 @@ Strategic product leader with a deep technical foundation, specialising in platf
 
 ## Skills
 
-<div style="columns: 2; -webkit-columns: 2; -moz-columns: 2;">
+<style>
+  .skills-list {
+    display: flex;
+    justify-content: space-between;
+  }
+  .skills-list ul {
+    list-style-type: disc;
+    padding-left: 20px;
+    width: 48%;
+  }
+</style>
 
-- Platform & Product Strategy  
-- Internal Developer Platforms  
-- Developer Experience  
-- SQL, Python & Data Analytics  
-- Metrics and Experimentation  
-- Logging & Observability  
-- Mentoring & Coaching  
-- Team Development & Growth  
-- Cross-Functional Collaboration  
-- Leadership & Culture Building  
-
+<div class="skills-list">
+  <ul>
+    <li>Platform & Product Strategy</li>
+    <li>Internal Developer Platforms</li>
+    <li>Developer Experience</li>
+    <li>SQL, Python & Data Analytics</li>
+    <li>Metrics and Experimentation</li>
+  </ul>
+  <ul>
+    <li>Logging & Observability</li>
+    <li>Mentoring & Coaching</li>
+    <li>Team Development & Growth</li>
+    <li>Cross-Functional Collaboration</li>
+    <li>Leadership & Culture Building</li>
+  </ul>
 </div>
 
 ---
