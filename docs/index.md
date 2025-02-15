@@ -11,28 +11,19 @@ Strategic product leader with a deep technical foundation, specialising in platf
 
 ---
 
-## **Skills**
+## Skills
 
-### **Product & Platform Strategy**
-- Internal Developer Platforms (IDPs)
-- Developer Experience (DevEx)
-- API & Platform Product Management
+| **Product & Platform Strategy** | **Engineering & Technical Leadership** |
+|-----------------------------|------------------------------------|
+| Internal Developer Platforms (IDPs) | Stakeholder Management |
+| Developer Experience (DevEx) | Agile Team Leadership |
+| API & Platform Product Management | CI/CD & Cloud Platforms (AWS, GCP, Azure) |
 
-### **Engineering & Technical Leadership**
-- Stakeholder Management
-- Agile Team Leadership
-- CI/CD & Cloud Platforms (AWS, GCP, Azure)
-
-### **Data & Tooling**
-- SQL, Python & Data Analytics
-- Metrics and Experimentation
-- Logging & Observability
-
-### **People & Leadership**
-- Mentoring & Coaching
-- Team Development & Growth
-- Cross-Functional Collaboration
-- Leadership & Culture Building
+| **Data & Tooling** | **People & Leadership** |
+|---------------|---------------------|
+| SQL, Python & Data Analytics | Mentoring & Coaching |
+| Metrics and Experimentation | Team Development & Growth |
+| Logging & Observability | Cross-Functional Collaboration |
 
 ---
 
