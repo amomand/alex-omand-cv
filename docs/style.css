@@ -1,0 +1,11 @@
+/* Hide the GitHub Pages title (blue text) */
+header, h1 {
+  display: none;
+}
+
+/* Reduce page margins for a cleaner look */
+body {
+  margin: 20px auto;
+  max-width: 800px;
+  padding: 0 20px;
+}
