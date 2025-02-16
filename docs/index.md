@@ -94,7 +94,7 @@ Progressing from **Business Analyst** to **Senior Technical Project Manager**, I
 ---
 
 ## **Ongoing Learning**
-- **Platform Engineering (In Progress)** – 6-Month Course (*2025*)
+- **Certified Platform Engineering (In Progress)** – 6-Month Course (*2025*)
 - Currently completing an **intensive 100-day Python boot camp**. The course focuses on **object-oriented programming, APIs, and data processing**.
 
 ---
