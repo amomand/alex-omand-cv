@@ -51,7 +51,7 @@ I’ve always enjoyed coding as a hobby, having explored Java, C# with Unity, an
 
 ### **Head of Product – Platforms**  
 **Marks & Spencer** | *Nov 2023 - Present*  
-- Lead a team of **7 platform product managers** across a broad platform portfolio, spanning Web, Mobile, APIs (incl. GraphQL), Runtime, Events, Experimentation, and Developer Experience with an internal user base of ~1800 engineers.  
+- Lead a team of **7 platform product managers** across a broad platform portfolio with 50+ engineers and a £14m budget. Spanning Web, Mobile, APIs (incl. GraphQL), Runtime, Events, Experimentation, and Developer Experience with an internal user base of ~1800 engineers.  
   ✅ **Impact example:** Improved **developer onboarding** and **time-to-first deploy** by introducing a Mobile App Starter Kit, cutting setup time from **4 weeks to 1 hour**.  
 - Drive **platform adoption** across engineering, reducing cognitive load and **accelerating software delivery** through well-designed APIs, CI/CD tooling, and cloud-native services.  
   ✅ **Impact example:** Optimised DevEx tooling, contributing to **£1.75M saving** in hidden development costs through efficiency gains and reduced friction.  
@@ -62,7 +62,7 @@ I’ve always enjoyed coding as a hobby, having explored Java, C# with Unity, an
 
 ### **Senior Product Manager – Platforms**  
 **Marks & Spencer** | *Jan 2020 – Nov 2023*  
-- Led the product development of internal developer runtime platforms, providing streamlined and effective tooling for engineering teams.  
+- Led the product development of internal developer runtime platforms, providing streamlined and effective tooling for engineering teams and managing a multi-million pound budget.  
   ✅ **Impact example:** Reduced edge compute change time from **up to 7 days to just 30 minutes**, eliminating **20+ days/month of idle time** across multiple teams.  
 - Spearheaded **DevEx initiatives**, introducing self-service platforms that reduced friction for developers.  
   ✅ **Impact example:** Shifted teams to **product mindset** ways of working, ensuring we measured success through data, driving continuous iteration based on key performance metrics.  
@@ -81,14 +81,14 @@ I’ve always enjoyed coding as a hobby, having explored Java, C# with Unity, an
 ### **Tech & Project Management Career Progression**  
 **Marks & Spencer** | *May 2011 – Mar 2018*  
 
-Progressing from **Business Analyst** to **Senior Technical Project Manager**, I played a key role in shaping **M&S’s retail technology landscape**. Over seven years, I led **projects spanning payments, POS, retail technology, and automation**, consistently working at the intersection of **technology, product, and operations**. My experience evolved from **business analysis and delivery leadership** into **technical project management**, where I introduced **automation, self-service tooling, and agile best practices** to improve **development workflows**.  
+Progressing from **Business Analyst** to **Senior Technical Project Manager**, I played a key role in shaping M&S’s retail technology landscape. Over seven years, I worked on and led projects spanning payments, POS, retail technology, and automation, consistently working at the intersection of **technology, product, and operations**. My experience evolved from business analysis and delivery leadership into **technical project management**, where I introduced automation, self-service tooling, and agile best practices to improve development workflows.  
 
 #### **Key Achievements:**  
-- Led analysis for an **award-winning payments system upgrade**, making **M&S the first Tier 1 UK retailer to adopt contactless payments**.  
-- Delivered multiple **POS & payments projects**, introducing **automated build and test pipelines** to enhance **reliability**.  
-- Spearheaded **automation initiatives**, transitioning **physical test environments to the cloud** for **improved scalability**.  
-- Served as an **Agile Champion**, driving **best practices across IT teams**.  
-- Delivered a **large-scale intranet project** with **65,000 users**, ensuring **smooth rollout and adoption**.
+- Delivered analysis for an **award-winning payments system upgrade**, making M&S the first Tier 1 UK retailer to adopt contactless payments.  
+- Delivered multiple **POS & payments projects**, introducing automated build and test pipelines to enhance reliability.  
+- Spearheaded **automation initiatives**, transitioning physical test environments to the cloud for improved scalability.  
+- Served as an **Agile Champion**, driving best practices across IT teams.  
+- Delivered a large-scale intranet project with **65,000 users**, ensuring smooth rollout and adoption.
 
 ---
 
