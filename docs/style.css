@@ -1,14 +1,11 @@
-header {
+/* Hide GitHub Pages' site title */
+.navbar-brand {
   display: none;
 }
 
-/* Keep your name visible while hiding the GitHub Pages title */
-.navbar-brand {
-  display: none; 
-}
-
+/* Reduce margins for a tighter layout */
 body {
-  max-width: 900px; /* Slightly wider */
-  margin: 10px auto; /* Slimmer margins */
-  padding: 10px 20px; /* Reduce padding */
+  max-width: 1000px;  /* Slightly wider than before */
+  margin: 0 auto;  /* Centers content */
+  padding: 10px 40px;  /* Reduce internal padding */
 }
