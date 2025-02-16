@@ -2,16 +2,15 @@
 
 # Alexander Omand
 
-**Strategic Product Leader | Platform & Developer Experience**  
-Princes Risborough, Buckinghamshire  
+**Strategic Product Leader | Platform Engineering | Developer Experience**    
 📧 aomand@hotmail.co.uk
 
 ---
 
 ## **Profile**
-A strategic product leader with a **deep technical foundation**, specialising in **platform** and **developer experience** products. My background spans product and project management, consistently working on the technical side of software delivery. With an **MSc in Computer Science** and a **BEng in Aerospace Engineering**, I take an analytical, data-led approach to problem-solving and decision-making.
+A strategic product leader with a **deep technical foundation**, specialising in **platform** and **developer experience** products. My background spans platform, product and project management, consistently working on the technical side of software delivery. With an **MSc in Computer Science** and a **BEng in Aerospace Engineering**, I take an analytical, data-led approach to problem-solving and decision-making to drive tangible outcomes for engineers and the business.
 
-I’ve always enjoyed coding as a hobby, having explored Java, C# with Unity, and now Python. My **hands-on curiosity** and **technical mindset** have shaped how I work with development teams. I thrive on translating complex technical challenges into **intuitive, high-value solutions** that empower developers and drive business outcomes. Just as important as the technology itself, I prioritise **people leadership**, fostering **collaborative, high-performing teams** through mentorship, coaching, and an inclusive culture.
+I’ve always enjoyed coding as a hobby, having explored Java, C# with Unity, and now Python. My **hands-on curiosity** and **technical mindset** have shaped how I work with and lead development teams. I thrive on translating complex technical challenges into **intuitive, high-value solutions** to deliver immediate and long term impact. Just as important as the technology itself, I prioritise **people leadership**, fostering **collaborative, high-performing teams** through mentorship, coaching, and an inclusive culture.
 
 ---
 
@@ -57,8 +56,8 @@ I’ve always enjoyed coding as a hobby, having explored Java, C# with Unity, an
 - Drive **platform adoption** across engineering, reducing cognitive load and **accelerating software delivery** through well-designed APIs, CI/CD tooling, and cloud-native services.  
   ✅ **Impact example:** Optimised DevEx tooling, contributing to **£1.75M saving** in hidden development costs through efficiency gains and reduced friction.  
 - Define and execute **platform product strategy**, balancing long-term vision with rapid MVP iterations based on user feedback and data.  
-  ✅ **Impact example:** Collaboratively developed a unified Developer Platform strategy, aligning tailored platform roadmaps under a common engineering vision.  
-- Established **developer experience** and **engineering metrics** as core performance indicators, introducing a KPI and metrics framework for platforms.  
+  ✅ **Impact example:** Collaboratively developed a unified Developer Platform strategy, aligning stakeholders and users from c-suite to engineer.  
+- Spearheaded **developer experience** and **engineering metrics** as core performance indicators, establishing a KPI and metrics framework across the engineering community.  
 - Evangelised **technical platform skills** within product management, securing funding for training and hiring, transforming the function into a **highly skilled, technically capable team**.  
 
 ### **Senior Product Manager – Platforms**  
