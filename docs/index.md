@@ -51,22 +51,22 @@ Outside of work, I’ve always enjoyed coding as a hobby, having explored Java, 
 ### **Head of Product – Platforms**  
 **Marks & Spencer** | *Nov 2023 - Present*  
 - Lead a team of **7 platform product managers** across a broad platform portfolio, spanning Web, Mobile, APIs (incl. GraphQL), Runtime, Events, Experimentation, and Developer Experience.  
-  ✅ Improved **developer onboarding** and **time-to-first deploy** by introducing a Mobile App Starter Kit, cutting setup time from **4 weeks to 1 hour**.  
+  ✅ **Impact example:** Improved **developer onboarding** and **time-to-first deploy** by introducing a Mobile App Starter Kit, cutting setup time from **4 weeks to 1 hour**.  
 - Drive **platform adoption** across engineering, reducing cognitive load and **accelerating software delivery** through well-designed APIs, CI/CD tooling, and cloud-native services.  
-  ✅ Optimised DevEx tooling, contributing to **£1.75M saving** in hidden development costs through efficiency gains and reduced friction.  
+  ✅ **Impact example:** Optimised DevEx tooling, contributing to **£1.75M saving** in hidden development costs through efficiency gains and reduced friction.  
 - Define and execute **platform product strategy**, balancing long-term vision with rapid MVP iterations based on user feedback and data.  
-  ✅ Collaboratively developed a unified Developer Platform strategy, aligning tailored platform roadmaps under a common engineering vision.  
+  ✅ **Impact example:** Collaboratively developed a unified Developer Platform strategy, aligning tailored platform roadmaps under a common engineering vision.  
 - Established **developer experience** and **engineering metrics** as core performance indicators, introducing a KPI and metrics framework for platforms.  
 - Evangelised **technical platform skills** within product management, securing funding for training and hiring, transforming the function into a **highly skilled, technically capable team**.  
 
 ### **Senior Product Manager – Platforms**  
 **Marks & Spencer** | *Jan 2020 – Nov 2023*  
 - Led the product development of internal developer runtime platforms, providing streamlined and effective tooling for engineering teams.  
-  ✅ Reduced edge compute change time from **up to 7 days to just 30 minutes**, eliminating **20+ days/month of idle time** across multiple teams.  
+  ✅ **Impact example:** Reduced edge compute change time from **up to 7 days to just 30 minutes**, eliminating **20+ days/month of idle time** across multiple teams.  
 - Spearheaded **DevEx initiatives**, introducing self-service platforms that reduced friction for developers.  
-  ✅ Shifted teams to **product mindset** ways of working, ensuring we measured success through data, driving continuous iteration based on key performance metrics.  
+  ✅ **Impact example:** Shifted teams to **product mindset** ways of working, ensuring we measured success through data, driving continuous iteration based on key performance metrics.  
 - Defined **API and platform strategies**, ensuring **usability, security, and scalability**.  
-  ✅ Increased API adoption and simplified the tech landscape by reducing API count.  
+  ✅ **Impact example:** Increased API adoption and simplified the tech landscape by reducing API count.  
 - Introduced a **data-driven culture** for platforms, embedding measurement and experimentation as a foundation for decision-making.  
 ### **Senior Technical Project Manager – Core Technology Platforms**  
 **Product Madness** | *Mar 2018 – Jan 2020*  
