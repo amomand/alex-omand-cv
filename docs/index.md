@@ -51,7 +51,7 @@ I’ve always enjoyed coding as a hobby, having explored Java, C# with Unity, an
 
 ### **Head of Product – Platforms**  
 **Marks & Spencer** | *Nov 2023 - Present*  
-- Lead a team of **7 platform product managers** across a broad platform portfolio with 50+ engineers and a £14m budget. Spanning Web, Mobile, APIs (incl. GraphQL), Runtime, Events, Experimentation, and Developer Experience with an internal user base of ~1800 engineers.  
+- Lead a team of **7 platform product managers and a £14m budget** across a broad platform portfolio with 50+ engineers. Spanning Web, Mobile, APIs (incl. GraphQL), Runtime, Events, Experimentation, and Developer Experience with an internal user base of **~1800 engineers**.  
   ✅ **Impact example:** Improved **developer onboarding** and **time-to-first deploy** by introducing a Mobile App Starter Kit, cutting setup time from **4 weeks to 1 hour**.  
 - Drive **platform adoption** across engineering, reducing cognitive load and **accelerating software delivery** through well-designed APIs, CI/CD tooling, and cloud-native services.  
   ✅ **Impact example:** Optimised DevEx tooling, contributing to **£1.75M saving** in hidden development costs through efficiency gains and reduced friction.  
