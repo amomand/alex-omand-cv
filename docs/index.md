@@ -1,6 +1,6 @@
 <link rel="stylesheet" type="text/css" href="style.css">
 
-# Alexander Omand
+# Alex Omand
 
 **Strategic Product Leader | Platform Engineering | Developer Experience**    
 📧 alex@omand.uk
