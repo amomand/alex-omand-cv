@@ -105,10 +105,7 @@ Progressing from **Business Analyst** to **Senior Technical Project Manager**, I
 ---
 
 ## **Professional Training & Certifications**
+- Platform Engineering (In Progress)
 - SAFe 5.0 Agilist
-- PRINCE2 Practitioner
-- International Diploma in Business Analysis
-- Systems Development (QA)
-- Scrum Practitioner (QA)
 
 ---
