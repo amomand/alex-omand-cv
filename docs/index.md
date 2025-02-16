@@ -3,7 +3,7 @@
 # Alexander Omand
 
 **Strategic Product Leader | Platform Engineering | Developer Experience**    
-📧 aomand@hotmail.co.uk
+📧 alex@omand.uk
 
 ---
 
