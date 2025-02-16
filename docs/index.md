@@ -69,7 +69,8 @@ I’ve always enjoyed coding as a hobby, having explored Java, C# with Unity, an
   ✅ **Impact example:** Shifted teams to **product mindset** ways of working, ensuring we measured success through data, driving continuous iteration based on key performance metrics.  
 - Defined **API and platform strategies**, ensuring **usability, security, and scalability**.  
   ✅ **Impact example:** Increased API adoption and simplified the tech landscape by reducing API count.  
-- Introduced a **data-driven culture** for platforms, embedding measurement and experimentation as a foundation for decision-making.  
+- Introduced a **data-driven culture** for platforms, embedding measurement and experimentation as a foundation for decision-making.
+
 ### **Senior Technical Project Manager – Core Technology Platforms**  
 **Product Madness** | *Mar 2018 – Jan 2020*  
 - Managed technical teams working on **core game platform, DevOps, and infrastructure**.
