@@ -69,27 +69,27 @@ I’ve always enjoyed coding as a hobby, having explored Java, C# with Unity, an
   ✅ **Impact example:** Shifted teams to **product mindset** ways of working, ensuring we measured success through data, driving continuous iteration based on key performance metrics.  
 - Defined **API and platform strategies**, ensuring **usability, security, and scalability**.  
   ✅ **Impact example:** Increased API adoption and simplified the tech landscape by reducing API count.  
-- Introduced a **data-driven culture** for platforms, embedding measurement and experimentation as a foundation for decision-making.
+- Introduced a **data-driven culture** for platforms, embedding measurement and experimentation as a foundation for decision-making.  
 
 ### **Senior Technical Project Manager – Core Technology Platforms**  
 **Product Madness** | *Mar 2018 – Jan 2020*  
-- Managed technical teams working on **core game platform, DevOps, and infrastructure**.
-  ✅ **Impact example:** Ensured more of the code base was reused, reducing cost and time to market
-- Drove **adaptive processes** to ensure **high-quality, timely deliveries** across on-site and remote teams.
-  ✅ **Impact example:** Improved team flow and feature visibility across the org.
-- Maintained transparency through detailed programme and project roadmaps, providing **clear communications** to stakeholders.
+- Managed technical teams working on **core game platform, DevOps, and infrastructure**.  
+  ✅ **Impact example:** Ensured more of the code base was reused, reducing cost and time to market.  
+- Drove **adaptive processes** to ensure **high-quality, timely deliveries** across on-site and remote teams.  
+  ✅ **Impact example:** Improved team flow and feature visibility across the org.  
+- Maintained transparency through detailed programme and project roadmaps, providing **clear communications** to stakeholders.  
 
 ### **Tech & Project Management Career Progression**  
 **Marks & Spencer** | *May 2011 – Mar 2018*  
 
-Progressing from **Business Analyst** to **Senior Technical Project Manager**, I played a key role in shaping M&S’s retail technology landscape. Over seven years, I led projects spanning payments, POS, retail technology, and automation, consistently working at the intersection of technology, product, and operations. My experience evolved from business analysis and delivery leadership into **technical project management**, where I introduced automation, self-service tooling, and agile best practices to improve development workflows.  
+Progressing from **Business Analyst** to **Senior Technical Project Manager**, I played a key role in shaping **M&S’s retail technology landscape**. Over seven years, I led **projects spanning payments, POS, retail technology, and automation**, consistently working at the intersection of **technology, product, and operations**. My experience evolved from **business analysis and delivery leadership** into **technical project management**, where I introduced **automation, self-service tooling, and agile best practices** to improve **development workflows**.  
 
 #### **Key Achievements:**  
-- Delivered analysis for an **award-winning payments system upgrade**, making M&S the first Tier 1 UK retailer to adopt contactless payments.  
-- Delivered multiple **POS & payments projects**, introducing **automated build and test pipelines** to enhance reliability.  
-- Spearheaded **automation initiatives**, transitioning physical test environments to the cloud for improved scalability.  
-- Served as an **Agile Champion**, driving best practices across IT teams.  
-- Delivered a large-scale intranet project with **65,000 users**, ensuring smooth rollout and adoption.  
+- Led analysis for an **award-winning payments system upgrade**, making **M&S the first Tier 1 UK retailer to adopt contactless payments**.  
+- Delivered multiple **POS & payments projects**, introducing **automated build and test pipelines** to enhance **reliability**.  
+- Spearheaded **automation initiatives**, transitioning **physical test environments to the cloud** for **improved scalability**.  
+- Served as an **Agile Champion**, driving **best practices across IT teams**.  
+- Delivered a **large-scale intranet project** with **65,000 users**, ensuring **smooth rollout and adoption**.
 
 ---
 
