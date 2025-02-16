@@ -1,11 +1,14 @@
-/* Hide the GitHub Pages title (blue text) */
-header, h1 {
+header {
   display: none;
 }
 
-/* Reduce page margins for a cleaner look */
+/* Keep your name visible while hiding the GitHub Pages title */
+.navbar-brand {
+  display: none; 
+}
+
 body {
-  margin: 20px auto;
-  max-width: 800px;
-  padding: 0 20px;
+  max-width: 900px; /* Slightly wider */
+  margin: 10px auto; /* Slimmer margins */
+  padding: 10px 20px; /* Reduce padding */
 }
