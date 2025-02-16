@@ -1,11 +1,11 @@
-/* Hide GitHub Pages' site title */
-.navbar-brand {
+/* Hide GitHub Pages title */
+h1:first-of-type {
   display: none;
 }
 
 /* Reduce margins for a tighter layout */
 body {
-  max-width: 1000px;  /* Slightly wider than before */
-  margin: 0 auto;  /* Centers content */
-  padding: 10px 40px;  /* Reduce internal padding */
+  max-width: 1100px;  /* Slightly wider */
+  margin: 5px auto !important;  /* Force smaller margins */
+  padding: 5px 30px !important;  /* Reduce padding */
 }
