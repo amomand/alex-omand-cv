@@ -81,8 +81,8 @@ I take an analytical, data-led approach to problem-solving and decision-making t
 
 ### **Key Achievements:**  
 - Delivered analysis for an **award-winning payments system upgrade**, making M&S the first Tier 1 UK retailer to adopt contactless payments.  
-- Embedded a product mindset in platform teams, focusing on impact, measurement, and building the right things.
-- Championed developer experience as a strategic priority, securing buy-in from C-suite to engineering teams.  
+- Embedded a product mindset in platform teams, focusing on **impact, measurement**, and **building the right thing**.
+- Championed **developer experience** as a strategic priority, securing buy-in from C-suite to engineering teams.  
 - Served as an **Agile Champion**, driving best practices across IT teams.  
 - Delivered a large-scale intranet project with **65,000 users**, ensuring smooth rollout and adoption.
 
