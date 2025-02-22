@@ -56,7 +56,7 @@ I take an analytical, data-led approach to problem-solving and decision-making t
 **Marks & Spencer** | *Nov 2023 - Present*  
 - Leading a team of **7 platform product managers** across a broad platform portfolio with 50+ engineers and a £14m budget. Spanning Web, Mobile, APIs (incl. GraphQL), Runtime, Events, Experimentation, and Developer Experience with an internal user base of ~1800 engineers.
 - Partnered with **engineering leadership** to shape and execute a multi-year developer platform strategy.
-- Defined **platform adoption strategies**, reducing cognitive load and accelerating software delivery across engineering.
+- Defined **platform adoption strategies** to drive standardisation and reusability, reducing cognitive load and accelerating software delivery across engineering.
 - Established **developer experience** and **engineering metrics** as core performance indicators.
 - Evangelised **technical product management skills**, securing funding to train and hire product managers with strong platform expertise.
 
