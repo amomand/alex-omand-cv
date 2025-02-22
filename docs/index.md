@@ -1,11 +1,8 @@
 <link rel="stylesheet" type="text/css" href="style.css">
-
-# <link rel="stylesheet" type="text/css" href="style.css">
-
 # Alex Omand
 
-**Technical Leader | Platform Engineering | Developer Experience**    
-📧 alex@omand.uk | [LinkedIn](https://www.linkedin.com/in/alex-omand)
+**Technical Leader | Platform Engineering | Developer Experience**  
+📧 alex@omand.uk • [LinkedIn](https://www.linkedin.com/in/alex-omand)
 
 ---
 
