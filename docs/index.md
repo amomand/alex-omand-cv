@@ -54,7 +54,7 @@ I take an analytical, data-led approach to problem-solving and decision-making t
 
 ### **Head of Product – Platforms**  
 **Marks & Spencer** | *Nov 2023 - Present*  
-- Led a team of **7 platform product managers** across Web, Mobile, APIs, Runtime, Events, Experimentation, and Developer Experience platforms.
+- Leading a team of **7 platform product managers** across a broad platform portfolio with 50+ engineers and a £14m budget. Spanning Web, Mobile, APIs (incl. GraphQL), Runtime, Events, Experimentation, and Developer Experience with an internal user base of ~1800 engineers.
 - Partnered with **engineering leadership** to shape and execute a multi-year developer platform strategy.
 - Defined **platform adoption strategies**, reducing cognitive load and accelerating software delivery across engineering.
 - Established **developer experience** and **engineering metrics** as core performance indicators.
@@ -62,7 +62,7 @@ I take an analytical, data-led approach to problem-solving and decision-making t
 
 ### **Senior Product Manager – Platforms**  
 **Marks & Spencer** | *Jan 2020 – Nov 2023*  
-- Led the development of the **Runtime Platform**, ensuring streamlined and effective tooling for engineering teams.
+- Led the product development of internal developer runtime platforms, providing streamlined and effective tooling for engineering teams and managing a multi-million pound budget across platform initiatives.
 - Defined **API and platform strategies**, ensuring **usability, security, and scalability**.
 - Shifted teams to **data-driven product management**, embedding measurement and experimentation.
 - Improved **DevEx** through automation and self-service tooling, reducing friction for engineers.
@@ -81,7 +81,7 @@ I take an analytical, data-led approach to problem-solving and decision-making t
 
 ### **Key Achievements:**  
 - Delivered analysis for an **award-winning payments system upgrade**, making M&S the first Tier 1 UK retailer to adopt contactless payments.  
-- Embedded a product mindset in platform teams, focusing on **impact, measurement**, and **building the right thing**.
+- Instilled a product-driven approach in platform teams, prioritising **impact, measurement**, and building the **right thing**.
 - Championed **developer experience** as a strategic priority, securing buy-in from C-suite to engineering teams.  
 - Served as an **Agile Champion**, driving best practices across IT teams.  
 - Delivered a large-scale intranet project with **65,000 users**, ensuring smooth rollout and adoption.

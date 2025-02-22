@@ -1,6 +1,5 @@
-# Alexander Omand – Product & Platform Leader
 
-👋 Hi, and thanks for stopping by! I’m a **technical product leader** passionate about **developer experience, platforms, and automation**. With a background in **engineering, product, and project management**, I thrive at the intersection of **technology and business strategy**.
+👋 Hi. I’m a **technical product leader** passionate about **developer experience, platforms, and automation**. With a background in **engineering, product, and project management**, I thrive at the intersection of **technology and business strategy**.
 
 ## 🚀 What I Do
 - Lead **platform product teams** to deliver **high-impact Internal Developer Platforms (IDPs)**.
@@ -10,26 +9,17 @@
 
 ## 🎯 What You’ll Find Here
 
-- 📄 My CV in [pages](https://amomand.github.io/alex-omand-cv/) – A detailed breakdown of my experience, skills, and career journey.
-- 🧵 **Cover Letter (Below)** – A brief introduction tailored for prospective employers.
+This repository contains my **latest CV**, publicly available via **GitHub Pages**.
 
----
+**Live CV**
+ - The most up-to-date version of my CV is hosted in the [docs/](./docs) folder and named index.md and is served via GitHub Pages.
 
-## **Dear Hiring Manager,**  
+ **Archived Versions**
+ - Older or role-specific versions of my CV are stored in the [archived-cvs/](./archived-cvs) folder. These are **not part of the live site** but are kept for reference.
 
-I am excited about the opportunity to bring my **platform product expertise** to your team. With experience leading **Internal Developer Platforms (IDPs), API-driven platforms, and engineering enablement**, I thrive in roles that **bridge technology and product strategy**.  
-
-Throughout my career, I have:  
-✅ **Led teams of platform product managers** to build and scale **developer-focused tooling**.  
-✅ Defined **platform roadmaps** that drive **efficiency, automation, and engineering self-service**.  
-✅ Collaborated across **engineering, architecture, and leadership** to align strategy with execution.  
-
-I’d love the opportunity to **discuss how my experience can benefit your team**. Please feel free to **reach out via email or LinkedIn**.  
-
-Looking forward to hearing from you!  
-
-Best regards,  
-**Alex Omand**  
-💼 [LinkedIn Profile](https://www.linkedin.com/in/alex-omand-39a37933)  
+**Usage**
+ - The docs/index.md file contains the **current** live CV.
+ - Alternative CVs (e.g., **Engineering Manager**, **Head of Product**) are available in archived-cvs/ for different applications.
+ - To update the live CV, replace docs/index.md with the relevant version.
 
 ---
