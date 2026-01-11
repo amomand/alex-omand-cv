@@ -86,14 +86,14 @@ I take an analytical, data-led approach to problem-solving and decision-making t
 ---
 
 ## **Ongoing Learning**
-- **Certified Platform Engineering (In Progress)** – 6-Month Course (*2025*)
+- Certified Platform Engineering (In Progress) – 6-Month Course (*2025*)
 - Currently completing an intensive 100-day Python boot camp. The course focuses on object-oriented programming, APIs, and data processing.
 
 ---
 
 ## **Education**
-- **MSc Computer Science (Distinction)** – University of Hertfordshire (*2011*)
-- **BEng (Hons) Aerospace Engineering with Astronautics** – Kingston University (*2007*)
+- MSc Computer Science (Distinction) – University of Hertfordshire (*2011*)
+- BEng (Hons) Aerospace Engineering with Astronautics – Kingston University (*2007*)
 
 ---
 
