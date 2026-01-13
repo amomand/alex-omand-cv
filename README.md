@@ -1,25 +1,26 @@
 
-👋 Hi. I’m a **technical product leader** passionate about **developer experience, platforms, and automation**. With a background in **engineering, product, and project management**, I thrive at the intersection of **technology and business strategy**.
+👋 Hi. I’m Alex Omand, a Software Engineering Manager specialising in platform engineering and developer experience.
+
+I currently work at Marks & Spencer as Engineering Manager for the Web Platform, where I lead teams building shared foundations that improve delivery, reliability, and developer effectiveness at scale. My background includes significant experience in technical product leadership, which gives me a strong product mindset alongside my engineering and people leadership focus.
 
 ## 🚀 What I Do
-- Lead **platform product teams** to deliver **high-impact Internal Developer Platforms (IDPs)**.
-- Drive **engineering enablement** through **self-service tooling, APIs, and CI/CD automation**.
-- Champion **platform thinking**—translating **complex tech challenges** into **developer-friendly solutions**.
-- Mentor and coach teams, fostering **high-performing, engaged engineers and product managers**.
+- Lead engineering teams building and operating Internal Developer Platforms and shared web foundations.
+- Focus on developer experience and enablement, reducing friction through tooling, standards, and platform capabilities.
+- Balance people leadership, technical direction, and delivery, supporting engineers to grow while maintaining a healthy, sustainable platform.
+- Contribute to organisation-wide engineering practices through technical leadership, mentoring, and collaboration.
 
-## 🎯 What You’ll Find Here
+## 🎯 About This Repository
 
-This repository contains my **latest CV**, publicly available via **GitHub Pages**.
+This repository contains my public CV, published via GitHub Pages and backed by a small CI pipeline that keeps the HTML and PDF versions in sync.
 
-**Live CV**
- - The most up-to-date version of my CV is hosted in the [docs/](./docs) folder and named index.md and is served via GitHub Pages.
+### Live CV
+- The most up-to-date version of my CV lives in `docs/index.md`.
+- It is published at alex.omand.uk using GitHub Pages.
 
- **Archived Versions**
- - Older or role-specific versions of my CV are stored in the [archived-cvs/](./archived-cvs) folder. These are **not part of the live site** but are kept for reference.
-
-**Usage**
- - The docs/index.md file contains the **current** live CV.
- - Alternative CVs (e.g., **Engineering Manager**, **Head of Product**) are available in archived-cvs/ for different applications.
- - To update the live CV, replace docs/index.md with the relevant version.
+### Updating the CV
+- Edit `docs/index.md` to update the live CV.
+- Changes pushed to `main` automatically rebuild and redeploy the site and PDF.
 
 ---
+
+This repo is intentionally simple and lightweight, treating the CV as a versioned, deployable artefact rather than a static document.

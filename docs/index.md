@@ -87,13 +87,6 @@ I take an analytical, data-led approach to decision-making and technical priorit
 - Delivered multiple POS & payments projects, introducing automated build and test pipelines.
 - Served as an Agile Champion, driving best practices across engineering teams.
 
-### **Key Achievements:**  
-- Delivered analysis for an award-winning payments system upgrade, making M&S the first Tier 1 UK retailer to adopt contactless payments.  
-- Instilled a product-driven approach in platform teams, prioritising impact, measurement, and building the right thing.
-- Championed developer experience as a strategic priority, securing buy-in from C-suite to engineering teams.  
-- Served as an Agile Champion, driving best practices across IT teams.  
-- Delivered a large-scale intranet project with 65,000 users, ensuring smooth rollout and adoption.
-
 ---
 
 ## **Ongoing Learning**
