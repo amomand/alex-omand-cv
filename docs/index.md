@@ -8,9 +8,11 @@
 
 ## **Profile**
 
-A strategic technology leader with a deep technical foundation, specialising in platform and developer experience products. My background spans technical product and project management, consistently working at the intersection of engineering effectiveness, team development and the technical side of software delivery. 
+An experienced Software Engineering Manager with a strong technical foundation, specialising in platform engineering and developer experience. I lead engineering teams building shared internal platforms that improve delivery, reliability, and developer effectiveness at scale.
 
-I take an analytical, data-led approach to problem-solving and decision-making to drive tangible outcomes for engineers and the business. My hands-on curiosity and technical mindset have shaped how I work with and lead development teams. I thrive on translating complex technical challenges into intuitive, high-value solutions to deliver immediate and long-term impact. Just as important as the technology itself, I prioritise people leadership, fostering collaborative, high-performing teams through mentorship, coaching, and an inclusive culture.
+My background includes significant tenure in technical product leadership, giving me a well-developed product mindset that complements my engineering role. I am comfortable operating at the intersection of people leadership, technical direction, and delivery, ensuring teams are supported, focused, and aligned on outcomes that matter.
+
+I take an analytical, data-led approach to decision-making and technical prioritisation, balancing short-term delivery with long-term platform health. I place a strong emphasis on coaching, mentorship, and creating an inclusive, high-trust environment where engineers can do their best work and grow their careers.
 
 ---
 
@@ -30,35 +32,44 @@ I take an analytical, data-led approach to problem-solving and decision-making t
 
 <div class="skills-list">
   <ul>
-    <li>Platform & Product Strategy</li>
-    <li>Internal Developer Platforms</li>
-    <li>Developer Experience</li>
-    <li>SQL, Python & Data Analytics</li>
-    <li>Metrics and Experimentation</li>
+    <li>Engineering Management & Technical Leadership</li>
+    <li>Platform Engineering (Internal Developer Platforms)</li>
+    <li>Developer Experience & Enablement</li>
+    <li>SQL, Python & Data Literacy</li>
+    <li>Metrics, Experimentation & Engineering Health</li>
   </ul>
   <ul>
-    <li>Logging & Observability</li>
-    <li>Mentoring & Coaching</li>
-    <li>Team Development & Growth</li>
-    <li>Cross-Functional Collaboration</li>
-    <li>Leadership & Culture Building</li>
+    <li>Observability, Reliability & Logging</li>
+    <li>Mentoring, Coaching & Performance</li>
+    <li>Team Growth & Organisational Design</li>
+    <li>Cross-Functional Delivery</li>
+    <li>Culture, Standards & Ways of Working</li>
   </ul>
 </div>
 
 ---
 
+
 ## **Career History**
 
-### **Head of Product – Platforms**  
-**Marks & Spencer** | *Nov 2023 - Present*  
+### **Software Engineering Manager – Web Platform**  
+**Marks & Spencer** | *May 2025 - Present*  
+- Engineering Manager for the Web Platform, leading teams responsible for shared web foundations used across the digital estate.
+- Active member of the Engineering Chapter, contributing to organisation-wide standards, ways of working, and technical leadership.
+- Strong focus on Developer Experience, reducing friction and cognitive load for engineers through platform capabilities, tooling, and clear standards.
+- Championing the responsible and effective use of AI across engineering, exploring practical applications to improve delivery, quality, and developer productivity.
+- Partnering closely with Product and Principal Engineers to balance technical health, delivery, and long-term platform strategy.
+
+### **Head of Product – Internal Developer Platform**  
+**Marks & Spencer** | *Oct 2023 - May 2025*  
 - Leading a team of 7 platform product managers across a broad platform portfolio with 50+ engineers and a £14m budget. Spanning Web, Mobile, APIs (incl. GraphQL), Runtime, Events, Experimentation, and Developer Experience with an internal user base of ~1800 engineers.
 - Partnered with engineering leadership to shape and execute a multi-year developer platform strategy.
 - Defined platform adoption strategies to drive standardisation and reusability, reducing cognitive load and accelerating software delivery across engineering.
 - Established developer experience and engineering metrics as core performance indicators.
 - Evangelised technical product management skills, securing funding to train and hire product managers with strong platform expertise.
 
-### **Senior Product Manager – Platforms**  
-**Marks & Spencer** | *Jan 2020 – Nov 2023*  
+### **Senior Product Manager – Internal Developer Platform**  
+**Marks & Spencer** | *Jan 2020 – Oct 2023*  
 - Led the product development of internal developer runtime platforms, providing streamlined and effective tooling for engineering teams and managing a multi-million pound budget across platform initiatives.
 - Defined API and platform strategies, ensuring usability, security, and scalability.
 - Shifted teams to data-driven product management, embedding measurement and experimentation.
@@ -98,7 +109,8 @@ I take an analytical, data-led approach to problem-solving and decision-making t
 ---
 
 ## **Professional Training & Certifications**
-- Certified Platform Engineering (In Progress)
+- Certified Platform Engineering Practitioner – *Aug 2025*
+- Certified Platform Engineering Professional – *Aug 2025*
 - SAFe 5.0 Agilist
 
 ---
