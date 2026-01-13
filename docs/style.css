@@ -3,6 +3,11 @@ h1:first-of-type {
   display: none;
 }
 
+/* Show the main title in the generated PDF output */
+.pdf-output h1:first-of-type {
+  display: block;
+}
+
 /* Reduce margins for a tighter layout */
 body {
   max-width: 1100px;  /* Slightly wider */
