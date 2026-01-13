@@ -4,7 +4,6 @@
 **Technical Leader | Platform Engineering | Developer Experience**  
 📧 alex@omand.uk • [LinkedIn](https://www.linkedin.com/in/alex-omand)
 
----
 
 ## **Profile**
 
@@ -14,7 +13,6 @@ My background includes significant tenure in technical product leadership, givin
 
 I take an analytical, data-led approach to decision-making and technical prioritisation, balancing short-term delivery with long-term platform health. I place a strong emphasis on coaching, mentorship, and creating an inclusive, high-trust environment where engineers can do their best work and grow their careers.
 
----
 
 ## **Skills**
 
@@ -46,8 +44,6 @@ I take an analytical, data-led approach to decision-making and technical priorit
     <li>Culture, Standards & Ways of Working</li>
   </ul>
 </div>
-
----
 
 
 ## **Career History**
@@ -87,23 +83,18 @@ I take an analytical, data-led approach to decision-making and technical priorit
 - Delivered multiple POS & payments projects, introducing automated build and test pipelines.
 - Served as an Agile Champion, driving best practices across engineering teams.
 
----
 
 ## **Ongoing Learning**
 - Certified Platform Engineering (In Progress) – 6-Month Course (*2025*)
 - Currently completing an intensive 100-day Python boot camp. The course focuses on object-oriented programming, APIs, and data processing.
 
----
 
 ## **Education**
 - MSc Computer Science (Distinction) – University of Hertfordshire (*2011*)
 - BEng (Hons) Aerospace Engineering with Astronautics – Kingston University (*2007*)
 
----
 
 ## **Professional Training & Certifications**
 - Certified Platform Engineering Practitioner – *Aug 2025*
 - Certified Platform Engineering Professional – *Aug 2025*
 - SAFe 5.0 Agilist
-
----
