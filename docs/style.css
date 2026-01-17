@@ -10,8 +10,8 @@ h1:first-of-type {
 
 /* Slightly smaller type in the PDF only */
 .pdf-output {
-  font-size: 0.88rem;
-  line-height: 1.3;
+  font-size: 0.8rem;
+  line-height: 1.0;
 }
 
 /* Reduce margins for a tighter layout */
