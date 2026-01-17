@@ -31,7 +31,7 @@ I take an analytical, data-led approach to decision-making and technical priorit
 <div class="skills-list">
   <ul>
     <li>Engineering Management & Technical Leadership</li>
-    <li>Platform Engineering (Internal Developer Platforms)</li>
+    <li>Platform Engineering (IDP)</li>
     <li>Developer Experience & Enablement</li>
     <li>SQL, Python & Data Literacy</li>
     <li>Metrics, Experimentation & Engineering Health</li>
