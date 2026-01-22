@@ -96,4 +96,4 @@ I take an analytical, data-led approach to decision-making and technical priorit
 
 
 ## **Personal Project**
-- **The Cabin** — terminal-based survival-horror text adventure with a diegetic free-text AI interpreter (LLM + rules-based fallback), stateful world model, and structured quests/logging. [https://github.com/amomand/the-cabin](https://github.com/amomand/the-cabin)
+- [The Cabin](https://github.com/amomand/the-cabin) — terminal-based survival-horror text adventure with a diegetic free-text AI interpreter (LLM + rules-based fallback), stateful world model, and structured quests/logging.
