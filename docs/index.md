@@ -2,7 +2,7 @@
 # Alex Omand
 
 **Engineering Manager | Platform Engineering | Developer Experience**  
-📧 alex@omand.uk • [LinkedIn](https://www.linkedin.com/in/alex-omand) • [.pdf](Alex-Omand-CV.pdf)
+alex@omand.uk • [LinkedIn](https://www.linkedin.com/in/alex-omand) • [.pdf](Alex-Omand-CV.pdf)
 
 
 ## **Profile**
