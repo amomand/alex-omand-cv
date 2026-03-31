@@ -7,11 +7,9 @@ alex@omand.uk • [LinkedIn](https://www.linkedin.com/in/alex-omand) • [.pdf](
 
 ## **Profile**
 
-An experienced Engineering Manager with a strong technical foundation, specialising in platform engineering and developer experience. I lead teams building shared internal platforms and foundations that improve delivery, reliability, and developer effectiveness at scale. My engineering leadership extends well beyond my current title, having held combined product and engineering management responsibility for platform teams over several years.
+Engineering Manager specialising in platform engineering and developer experience. I lead teams that build shared internal platforms, the kind of foundational work that improves delivery, reliability, and developer effectiveness across an organisation. At Marks & Spencer, I run two platform areas providing the shared web foundations, and Developer Services, the front door into the internal developer platform for around 1,500 engineers.
 
-My background includes significant tenure in technical product leadership, giving me a well-developed product mindset that complements my engineering role. I’m comfortable operating at the intersection of people leadership, technical direction, and delivery, influencing senior stakeholders, navigating competing priorities across the organisation, and helping teams stay focused on outcomes through pragmatic ways of working.
-
-I take an analytical, data-led approach to decision-making and technical prioritisation, balancing short-term delivery with long-term platform health. I bring strong technical grounding and I’m confident reviewing system designs, challenging assumptions, and balancing trade-offs with senior engineers. I place a strong emphasis on coaching, mentorship, and creating an inclusive, high-trust environment where engineers can do their best work and grow their careers.
+I am analytical and data-led in how I prioritise, always weighing short-term delivery against long-term platform health. I stay close to the technical detail, reviewing architecture and challenging trade-offs alongside senior engineers, while investing just as heavily in coaching, mentorship, and building teams where people do their best work. My influence tends to extend beyond engineering management into product direction and organisational strategy, shaped by years in senior technical product leadership and a natural inclination to focus on outcomes rather than activity.
 
 
 ## **Skills**
@@ -48,13 +46,15 @@ I take an analytical, data-led approach to decision-making and technical priorit
 
 ## **Career History**
 
-### **Software Engineering Manager – Web Platform**  
+### **Software Engineering Manager – Web Platform & Developer Services**  
 **Marks & Spencer** | *May 2025 - Present*  
-- Accountable for delivery outcomes in the Web Platform area, leading teams responsible for shared web foundations used across the digital estate.
-- Partner closely with Product, senior engineers, and leadership to set direction, influence priorities across the organisation, and balance delivery with long-term technical health.
-- Improve developer experience by reducing friction and cognitive load through platform capabilities, tooling, and clear standards.
-- Foster a high bar for engineering excellence through expectations, coaching, and continuous improvement of ways of working.
-- Champion responsible and effective use of AI to improve delivery, quality, and developer productivity.
+- Lead two platform teams — Web Platform (Web facing IDP) and Developer Services (engineering front door to the IDP)
+- Wrote strategies for both areas including interfacing into an AI SDLC programme.
+- Deployed M&S’s first organisation-wide engineering health framework. Used DX survey data and support channel analysis to quantify ~1.6 FTEs per week of wasted engineering time and drive targeted improvements.
+- Built an AI support bot PoC, then expanded its scope to serve the org-wide engineering community.
+- Delivered a zero-incident Golden Quarter across the web selling experience with a team of three engineers.
+- Led org-wide contributions including automated change management and GitHub Actions re-enablement gold standards following a cyber incident.
+- Driving supply chain security evaluation, major framework and runtime upgrades, and the platform design principles governing all IDP components.
 
 ### **Head of Product – Internal Developer Platform**  
 **Marks & Spencer** | *Oct 2023 - May 2025*  
