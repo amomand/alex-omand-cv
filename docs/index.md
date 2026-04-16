@@ -9,7 +9,7 @@ alex@omand.uk • [LinkedIn](https://www.linkedin.com/in/alex-omand) • [.pdf](
 
 Engineering Manager specialising in platform engineering and developer experience. I lead teams that build shared internal platforms, the kind of foundational work that improves delivery, reliability, and developer effectiveness across an organisation. At Marks & Spencer, I run two platform areas providing the shared web foundations, and Developer Services, the front door into the internal developer platform for around 1,500 engineers.
 
-I am analytical and data-led in how I prioritise, always weighing short-term delivery against long-term platform health. I stay close to the technical detail, reviewing architecture and challenging trade-offs alongside senior engineers, while investing just as heavily in coaching, mentorship, and building teams where people do their best work. My influence tends to extend beyond engineering management into product direction and organisational strategy, shaped by years in senior technical product leadership and a natural inclination to focus on outcomes rather than activity.
+I am analytical and data-led in how I prioritise, always weighing short-term delivery against long-term platform health. I stay close to the technical detail, reviewing architecture and challenging trade-offs alongside senior engineers, while investing just as heavily in coaching, mentorship, and building teams where people do their best work. My influence tends to extend beyond engineering management into product direction and organisational strategy, shaped by years in senior technical product leadership and a natural inclination to focus on outcomes rather than activity. I am particularly interested in where AI can genuinely reduce friction for engineers, and I approach it pragmatically: build, measure, and keep only what proves useful.
 
 
 ## **Skills**
@@ -31,7 +31,7 @@ I am analytical and data-led in how I prioritise, always weighing short-term del
     <li>Engineering Management & People Leadership</li>
     <li>Platform Engineering (IDP)</li>
     <li>Delivery Leadership & Flow</li>
-    <li>Metrics, Experimentation & Engineering Health</li>
+    <li>Metrics, Experimentation & AI Evaluation</li>
     <li>SQL, Python & Data Literacy</li>
   </ul>
   <ul>
@@ -49,9 +49,9 @@ I am analytical and data-led in how I prioritise, always weighing short-term del
 ### **Software Engineering Manager – Web Platform & Developer Services**  
 **Marks & Spencer** | *May 2025 - Present*  
 - Lead two platform teams — Web Platform (Web facing IDP) and Developer Services (engineering front door to the IDP)
-- Wrote strategies for both areas including interfacing into an AI SDLC programme.
+- Wrote strategies for both areas, including an AI-native orchestration direction that turns natural-language intent into governed platform workflows.
 - Deployed M&S’s first organisation-wide engineering health framework. Used DX survey data and support channel analysis to quantify ~1.6 FTEs per week of wasted engineering time and drive targeted improvements.
-- Built an AI support bot PoC, then expanded its scope to serve the org-wide engineering community.
+- Built a RAG-based engineering support PoC, then used analysis of ~1,900 support messages to narrow the real AI opportunity and steer the work towards lower-friction native tooling.
 - Delivered a zero-incident Golden Quarter across the web selling experience with a team of three engineers.
 - Led org-wide contributions including automated change management and GitHub Actions re-enablement gold standards following a cyber incident.
 - Driving supply chain security evaluation, major framework and runtime upgrades, and the platform design principles governing all IDP components.
@@ -97,4 +97,4 @@ I am analytical and data-led in how I prioritise, always weighing short-term del
 
 
 ## **Personal Project**
-- [The Cabin](https://www.the-cabin.fi/) — terminal-based survival-horror text adventure with a diegetic free-text AI interpreter (LLM + rules-based fallback), stateful world model, and structured quests/logging.
+- [The Cabin](https://www.the-cabin.fi/) — terminal-based survival-horror text adventure combining free-text AI input with rules-based guardrails, diegetic responses, and a stateful world model.
